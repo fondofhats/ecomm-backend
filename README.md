@@ -2,8 +2,7 @@
 
 ## Description 
 
-This is a project which was developed for the University of Arizona Coding Bootcamp course. 
-
+This is a project which was developed for the University of Arizona Coding Bootcamp course. The application contained within is a database and functional backend. 
 
 ## Table of Contents 
 
@@ -16,19 +15,28 @@ This is a project which was developed for the University of Arizona Coding Bootc
 
 ## Installation
 
-
+Installation is a process of installing the dependencies required.   
+intialize node package manager and then run the following commands;  
+`npm install mysql2`   
+`npm install sequelize`   
+`npm install dotenv`   
 
 ## Usage 
 
-  
+ In order to use the application, first ensure that MySQL is installed in your environment. Then, from the project root folder enter the sql shell and run the following command:     
+ `source db/schema.sql`        
+Exit the sql shell and return to the command line still within your root project folder. Run the following commands;     
+`npm run seed`    
+`npm start`    
 
-![Demo Still of the Application](doc/still_demo.png?raw=true "Demo of the Application")
+![Demo Still of the Application](doc/gif/demo_still.png?raw=true "Demo of the Application")    
+
+![Demo GIF of the Application](doc/gif/db_start_gif.gif?raw=true "Demo of the Application")     
 
 
 ## Credits
 
-University of Arizona Coding Bootcamp Week 13 Module 13: Object-Relational Mapping
-
+University of Arizona Coding Bootcamp Week 13 Module 13: Object-Relational Mapping.
 
 ## License
 
@@ -54,10 +62,38 @@ SOFTWARE.
 
 ## Documentation
 
-![Employee Tracker GIF](doc/demo_gif.gif "Employee Tracker GIF")
+### DB START     
+![Demo GIF of the Application](doc/gif/db_start_gif.gif?raw=true "Demo of the Application")      
+Please use the following link to download the DATABASE START application demo video: [Application Demo Download](doc/vid/db_start_vid.mp4 "Demo Video")     
+Please use the following link to view the DATABASE START application demo video: [Application Demo on Youtube](https://youtu.be/tkGjTe8aunI "Demo Video")     
 
-Please use the following link to view the application demo video: [Application Demo on Youtube](https://youtu.be/JHQW68l-K08 "Demo Video")
+### GET ROUTES     
 
-Please use the following link to download the application demo video: [Application Demo Download](doc/demo_mp4.mp4 "Demo Video")
+![Demo GIF of the Application](doc/gif/get_demo_gif.gif?raw=true "Demo of the Application")        
+Please use the following link to download the GET ROUTES application demo video: [Application Demo Download](doc/vid/get_demo_vid.mp4 "Demo Video")      
+Please use the following link to view the GET ROUTES application demo video: [Application Demo on Youtube](https://youtu.be/FQfGnN2SJ9Y "Demo Video")     
+
+### POST / PUT / DEL TAGS     
+
+![Demo GIF of the Application](doc/gif/post_put_del_tags_gif.gif?raw=true "Demo of the Application")      
+Please use the following link to download the POST/PUT/DEL TAGS application demo video: [Application Demo Download](doc/vid/post_put_del_tags_vid.mp4 "Demo Video")     
+Please use the following link to view the POST/PUT/DEL TAGS application demo video: [Application Demo on Youtube](https://youtu.be/tLYWeZUl094 "Demo Video")     
+
+### POST / PUT / DEL PRODUCTS     
+
+![Demo GIF of the Application](doc/gif/post_put_del_prod_gif.gif?raw=true "Demo of the Application")        
+Please use the following link to download the POST/PUT/DEL PRODUCTS application demo video: [Application Demo Download](doc/vid/post_put_del_prod_vid.mp4 "Demo Video")     
+Please use the following link to view the POST/PUT/DEL PRODUCTS application demo video: [Application Demo on Youtube](https://youtu.be/rx-sxuyGMKg "Demo Video")     
+
+### POST / PUT / DEL CATEGORIES     
+
+![Demo GIF of the Application](doc/gif/post_put_del_cat_gif.gif?raw=true "Demo of the Application")         
+Please use the following link to download the POST/PUT/DEL CATEGORY Application demo video: [Application Demo Download](doc/vid/post_put_del_cat_vid.mp4 "Demo Video")     
+Please use the following link to view the POST/PUT/DEL CATEGORY application demo video: [Application Demo on Youtube](https://youtu.be/wsywknMXxi0 "Demo Video")     
+
+
+
+
+
 
 
