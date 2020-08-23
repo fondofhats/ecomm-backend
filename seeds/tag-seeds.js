@@ -27,6 +27,5 @@ const tagData = [{
         tag_name: 'Liquid',
     },
 ];
-
 const seedTags = () => Tag.bulkCreate(tagData);
 module.exports = seedTags;
