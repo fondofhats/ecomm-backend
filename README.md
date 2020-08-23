@@ -85,7 +85,7 @@ Please use the following link to view (youtube) the POST/PUT/DEL TAGS applicatio
 
 ![Demo GIF of the Application](doc/gif/post_put_del_prod_gif.gif?raw=true "Demo of the Application")        
 Please use the following link to download the POST/PUT/DEL PRODUCTS application demo video: [DOWNLOAD](doc/vid/post_put_del_prod_vid.mp4 "Demo Video")     
-Please use the following link to view (youtube) the POST/PUT/DEL PRODUCTS application demo video: [AVIEW](https://youtu.be/rx-sxuyGMKg "Demo Video")     
+Please use the following link to view (youtube) the POST/PUT/DEL PRODUCTS application demo video: [VIEW](https://youtu.be/rx-sxuyGMKg "Demo Video")     
 
 ### POST / PUT / DEL CATEGORIES     
 
